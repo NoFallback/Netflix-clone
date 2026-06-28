@@ -294,3 +294,39 @@ main {
     height: 100%;
     border-radius: 6px;
 }
+
+.features {
+    /* background-color: red; */
+    width: 80%;
+    margin: auto;
+}
+
+.space {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.block {
+    width: 278px;
+    height: 310px;
+    /* background-color: aqua; */
+    background: linear-gradient(to right bottom, rgb(25, 33, 69), rgb(33, 13, 22));
+    border-radius: 15px;
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+}
+
+.features>.heading {
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+    font-size: 22px;
+}
+
+.block>h2 {
+    margin: 16px;
+    font-size: 23px;
+}
+
+.block>p {
+    margin: 0px 29px 0px 23px;
+    font-size: 15px;
+}
