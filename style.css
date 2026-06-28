@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+body {
+    background-color: black;
+}
+
 header {
     /* display: inline-block; */
     height: 92vh;
@@ -202,4 +206,91 @@ header {
     height: 26px;
     width: 40px;
     margin-left: 5px;
+}
+
+main {
+    color: white;
+    max-width: 1920px;
+    margin: auto;
+}
+
+.head {
+    height: 100px;
+    /* background-color: red; */
+    align-content: flex-end;
+    margin-bottom: 10px;
+}
+
+.head>h2 {
+    width: 80%;
+    margin: auto;
+    /* background-color: blue; */
+    font-family: "Geist", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", Arial, sans-serif;
+}
+
+
+
+.slid-flex {
+    padding-top: 10px;
+    display: flex;
+    align-content: center;
+    justify-content: space-around;
+    width: 80%;
+    margin: auto;
+    /* background-color: aqua; */
+    height: 268px;
+    margin-bottom: 60px;
+}
+
+.slid-flex .slid {
+    width: 224px;
+    height: 100%;
+    padding: 0px 22px;
+    /* background-color: green; */
+}
+
+.slid .image {
+    width: 180px;
+    height: 252px;
+    /* background-color: red; */
+}
+
+.img1 {
+    background: url(1-slid.webp);
+}
+
+.img2 {
+    background: url(2-slid.webp);
+}
+
+.img3 {
+    background: url(3-slid.webp);
+}
+
+.img4 {
+    background: url(4-slid.webp);
+}
+
+.img5 {
+    background: url(5-slid.webp);
+}
+
+.num-slid {
+    font-size: 80px;
+    color: black;
+    -webkit-text-stroke: 0.25rem rgb(255, 255, 255);
+    paint-order: stroke fill;
+    opacity: 1;
+    font-family: Netflix Sans, 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    position: relative;
+    display: inline;
+    top: 140px;
+    left: -20px;
+}
+
+.slid .image img {
+    width: 100%;
+    height: 100%;
+    border-radius: 6px;
 }
