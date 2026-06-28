@@ -15,11 +15,10 @@ header {
 }
 
 .hero {
-    /* display: inline-block; */
-    background-position: center center;
+    /* background-position: center center;
     background-image: url("https://assets.nflxext.com/ffe/siteui/vlv3/81b52f88-dc76-488d-a939-0cf13a260a6e/web/IN-en-20260622-TRIFECTA-perspective_d39d60ef-cb5a-4793-9546-0a8d9a87948e_large.jpg");
     background-size: cover;
-    filter: brightness(50%);
+    filter: brightness(35%); */
 
     /* border: 3px solid black; */
     height: 100%;
@@ -30,7 +29,83 @@ header {
 .hero-section {
     height: 100%;
     width: 100%;
-
-
     /* background-color: black; */
+    background-position: center center;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("https://assets.nflxext.com/ffe/siteui/vlv3/81b52f88-dc76-488d-a939-0cf13a260a6e/web/IN-en-20260622-TRIFECTA-perspective_d39d60ef-cb5a-4793-9546-0a8d9a87948e_large.jpg");
+    background-size: cover;
+}
+
+.back-pic {
+
+    /* background-image: url("https://assets.nflxext.com/ffe/siteui/vlv3/81b52f88-dc76-488d-a939-0cf13a260a6e/web/IN-en-20260622-TRIFECTA-perspective_d39d60ef-cb5a-4793-9546-0a8d9a87948e_large.jpg"); */
+
+    background-size: cover;
+    /* filter: brightness(35%); */
+    /* border: 3px solid black; */
+    height: 100%;
+    width: 100%;
+}
+
+.bar {
+    width: 80%;
+    /* background-color: pink; */
+    margin: auto;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    /* background-color: yellow; */
+
+}
+
+.logo {
+    height: 60%;
+    /* margin-left: 16px; */
+    /* align-self: flex-end; */
+}
+
+.logo>img {
+    height: 100%;
+    /* filter: brightness(150%); */
+    filter: contrast(110%);
+}
+
+.action {
+    display: flex;
+    /* background-color: green; */
+    gap: 10px;
+    margin-bottom: 4px;
+}
+
+.language {
+    display: flex;
+    gap: 5px;
+    height: 32px;
+    width: 124px;
+    color: white;
+    background-color: rgb(20, 19, 19);
+    border-style: none;
+    border-radius: 3px;
+    font-weight: bold;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid rgb(95, 95, 95);
+    border-radius: 4px;
+    font-size: 15px;
+}
+
+.language img {
+    height: 20px;
+}
+
+
+.sign-in {
+    width: 77px;
+    height: 32px;
+    color: white;
+    background-color: red;
+    border-style: none;
+    border-radius: 3px;
+    font-weight: bold;
+    font-size: 13px;
 }
