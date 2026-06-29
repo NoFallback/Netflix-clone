@@ -380,9 +380,13 @@ main {
 .faq {
     width: 80%;
     margin: auto;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     margin-top: 40px;
+    font-family: sans-serif;
 }
+
+
+
+
 
 .faq>h2 {
     padding: 16px 0px;
@@ -408,4 +412,63 @@ main {
 
 .ques>.divide>img {
     height: 36px;
+}
+
+.footer {
+    /* background-color: aqua; */
+    position: relative;
+    width: 80%;
+    margin: 100px auto;
+}
+
+.repeat>.read {
+    text-align: center;
+}
+
+.repeat>.write {
+    justify-content: center;
+    gap: 10px;
+}
+
+.repeat>.write>input {
+    width: 562px;
+}
+
+.contact {
+    color: rgb(179, 179, 179);
+    margin-top: 100px;
+    margin-bottom: 50px;
+    font-family: sans-serif;
+}
+
+.contact>a {
+    color: rgb(179, 179, 179);
+}
+
+.lower-half>.links {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    /* border: 2px solid red; */
+    height: 132px;
+    margin-bottom: 30px;
+}
+
+.grid-block a {
+    color: rgb(179, 179, 179);
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+.end :first-child {
+    color: rgb(179, 179, 179);
+    font-family: sans-serif;
+    font-size: 14px;
+    margin: 40px 0px;
+}
+
+.end :last-child {
+    color: rgb(128, 128, 128);
+    font-family: sans-serif;
+    font-size: 13px;
 }
