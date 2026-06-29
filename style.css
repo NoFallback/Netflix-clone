@@ -121,6 +121,10 @@ header {
     font-size: 13px;
 }
 
+.sign-in:hover {
+    background-color: rgb(195, 0, 0);
+}
+
 .hero-mid {
     width: 588px;
     height: 310px;
@@ -197,6 +201,10 @@ header {
     justify-content: center;
 }
 
+.start-b:hover {
+    background-color: rgb(195, 0, 0);
+}
+
 .start-b>p {
     display: inline;
     margin-left: 10px;
@@ -248,6 +256,10 @@ main {
     /* height: 252px; */
     padding: 0px 22px;
     /* background-color: green; */
+}
+
+.slid:hover {
+    transform: scale(105%);
 }
 
 .slid .image {
