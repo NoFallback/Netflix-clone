@@ -25,19 +25,19 @@ While it is not a pixel-perfect copy of Netflix's original login page, it closel
 
 ### Mobile View
 #### Hero Area
-<img src="https://github.com/NoFallback/Netflix-clone/blob/ed45f7d6c84eecb7ee5fa6d5d4d9b5792e0807d8/readme-images/Hero-M.jpeg" width="500" alt="Hero screen in mobile view">
+<img src="https://github.com/NoFallback/Netflix-clone/blob/ed45f7d6c84eecb7ee5fa6d5d4d9b5792e0807d8/readme-images/Hero-M.jpeg" width="300" alt="Hero screen in mobile view">
 
 #### Popular Now
-<img src="https://github.com/NoFallback/Netflix-clone/blob/ed45f7d6c84eecb7ee5fa6d5d4d9b5792e0807d8/readme-images/Trending-M.jpeg" width="500" alt="Trending Now in mobile view">
+<img src="https://github.com/NoFallback/Netflix-clone/blob/ed45f7d6c84eecb7ee5fa6d5d4d9b5792e0807d8/readme-images/Trending-M.jpeg" width="300" alt="Trending Now in mobile view">
 
 #### Reasons and Features Section
-<img src="https://github.com/NoFallback/Netflix-clone/blob/ed45f7d6c84eecb7ee5fa6d5d4d9b5792e0807d8/readme-images/Reasons-M.jpeg" width="500" alt="Reasons screen in mobile">
+<img src="https://github.com/NoFallback/Netflix-clone/blob/ed45f7d6c84eecb7ee5fa6d5d4d9b5792e0807d8/readme-images/Reasons-M.jpeg" width="300" alt="Reasons screen in mobile">
 
 #### FAQ Section
-<img src="https://github.com/NoFallback/Netflix-clone/blob/ed45f7d6c84eecb7ee5fa6d5d4d9b5792e0807d8/readme-images/FAQ-M.jpeg" width="500" alt="FAQ Section in mobile">
+<img src="https://github.com/NoFallback/Netflix-clone/blob/ed45f7d6c84eecb7ee5fa6d5d4d9b5792e0807d8/readme-images/FAQ-M.jpeg" width="300" alt="FAQ Section in mobile">
 
 #### Footer Section
-<img src="https://github.com/NoFallback/Netflix-clone/blob/ed45f7d6c84eecb7ee5fa6d5d4d9b5792e0807d8/readme-images/Footer-M.jpeg" width="500" alt="Footer Section in mobile">
+<img src="https://github.com/NoFallback/Netflix-clone/blob/ed45f7d6c84eecb7ee5fa6d5d4d9b5792e0807d8/readme-images/Footer-M.jpeg" width="300" alt="Footer Section in mobile">
 
 ## Getting Started
 
