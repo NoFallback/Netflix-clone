@@ -6,10 +6,11 @@ While it is not a pixel-perfect copy of Netflix's original login page, it closel
 
 ## Features
 1. Modern Netflix-inspired UI
-2. Responsive layout
+2. Responsive layout and design for Desktop, Tablet, and Mobile devices
 3. Styled login form
 4. Background image with overlay effect
 5. Clean and organized HTML & CSS structure
+6. Optimized user experience across multiple screen sizes
 
 ## Gallery
 ### Desktop View
